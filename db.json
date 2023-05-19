@@ -1,0 +1,92 @@
+{
+    "literary_style": [{
+            "id": 1,
+            "desc": "Auto-ajuda"
+        },
+        {
+            "id": 2,
+            "desc": "Comédia"
+        },
+        {
+            "id": 3,
+            "desc": "Conto"
+        },
+        {
+            "id": 4,
+            "desc": "Poema"
+        },
+        {
+            "id": 5,
+            "desc": "Romance"
+        },
+        {
+            "id": 6,
+            "desc": "Suspense"
+        },
+        {
+            "id": 7,
+            "desc": "Narrativa"
+        }
+    ],
+    "books": [{
+            "id": "1",
+            "autor": "Mark W. Baker",
+            "titulo": "Jesus, o maior psicólogo que já existiu",
+            "edicao": "9",
+            "ano": "2005",
+            "genero": "1",
+            "qtde_paginas": "191",
+            "foto": "https://m.media-amazon.com/images/I/81gdMGlCJiL.jpg",
+            "local": "escritorio",
+            "emprestado": 0
+        },
+        {
+            "id": "2",
+            "autor": "George Orwell",
+            "titulo": "Revolução dos bichos",
+            "edicao": "1",
+            "ano": "2007",
+            "genero": "3",
+            "qtde_paginas": "147",
+            "foto": "https://m.media-amazon.com/images/I/91BsZhxCRjL.jpg",
+            "local": "estante",
+            "emprestado": "1"
+        },
+        {
+            "id": "3",
+            "autor": "W Cipri",
+            "titulo": "Herois da Revolução",
+            "edicao": "12",
+            "ano": "2015",
+            "genero": "2",
+            "qtde_paginas": "12",
+            "foto": "https://m.media-amazon.com/images/I/51EeaCFdHEL.jpg",
+            "local": "Biblioteca Puc",
+            "emprestado": 0
+        },
+        {
+            "id": "4",
+            "autor": "Willian Young",
+            "titulo": "A cabana aa",
+            "edicao": "12",
+            "ano": "2012",
+            "genero": "6",
+            "qtde_paginas": "",
+            "foto": "https://m.media-amazon.com/images/I/91rc6PHsvIL.jpg",
+            "local": "quarto",
+            "emprestado": 1
+        },
+        {
+            "id": 5,
+            "autor": "Stephen Hawking",
+            "titulo": "Uma Breve História do Tempo",
+            "edicao": "11",
+            "ano": "2015",
+            "genero": "7",
+            "qtde_paginas": "",
+            "foto": "https://m.media-amazon.com/images/I/61AaXcdHXKS.jpg",
+            "local": "",
+            "emprestado": 1
+        }
+    ]
+}
